@@ -1,2 +1,2 @@
-# 前端学习记录
+# Record the experience of learning the front end
 creating a new bug
